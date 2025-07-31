@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Divya!
+I'm a junior at Rutgers University, New Brunswick, studying Computer Science and Data Science. I'm interested in Data Science and Analytics, Machine Learning/AI, Software Engineering, and other intersecting industries with technology. 
+
+📫 How to reach me: divya.israni306@gmail.com
+😄 Pronouns: she/her
 
 <!--
 **divya-israni/divya-israni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
